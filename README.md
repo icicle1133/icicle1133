@@ -6,21 +6,19 @@
 
 ## 💻 what i do ig idfk
 - im a dev @ [xspect.cc](https://xspect.cc)
-- i work on my own projects in my freetime, such as [3ds-Controller](https://github.com/icicle1133/3ds-Controller)
+- i work on my own projects in my freetime, mainly [3ds-Controller](https://github.com/icicle1133/3ds-Controller)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Project
 
-![icicle1133's GitHub stats](https://github-readme-stats.vercel.app/api?username=icicle1133&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icicle1133&layout=compact&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icicle1133&repo=3ds-Controller&theme=radical)](https://github.com/icicle1133/3ds-Controller)
 
 ---
 
-## 📈 Activity Graph
+## 📈 Repo Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icicle1133&theme=react-dark)
+![3ds-Controller Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icicle1133&repo=3ds-Controller&theme=react-dark)
 
 ---
 
