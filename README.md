@@ -1,5 +1,5 @@
 <!-- Top capsule header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E1F29,100:2E3248&height=200&section=header&text=hi%20im%20icicle1133&fontSize=40&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:161925,100:181B28&height=200&section=header&text=hi%20im%20icicle1133&fontSize=40&animation=fadeIn&fontAlignY=40)
 
 ## 👋 hi im icicle1133
 
@@ -15,15 +15,17 @@
 
 ## 📊 GitHub Stats
 
-![icicle1133's GitHub stats](https://github-readme-stats.vercel.app/api?username=icicle1133&show_icons=true&theme=dark&bg_color=0:1E1F29,100:2E3248&title_color=8AB4F8&text_color=C0C5CE&icon_color=89DDFF) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icicle1133&layout=compact&theme=dark&bg_color=0:1E1F29,100:2E3248&title_color=8AB4F8&text_color=C0C5CE)
+![icicle1133's GitHub stats](https://github-readme-stats.vercel.app/api?username=icicle1133&show_icons=true&theme=dark&bg_color=0:161925,100:181B28&title_color=8500F7&text_color=FFFFFF&icon_color=3DAEE9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icicle1133&layout=compact&theme=dark&bg_color=0:161925,100:181B28&title_color=8500F7&text_color=FFFFFF)
 
 ---
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icicle1133&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icicle1133&bg_color=161925&color=FFFFFF&line=3DAEE9&point=8500F7&area=true&hide_border=true)
 
 ---
 
 <!-- Bottom capsule footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E1F29,100:2E3248&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:161925,100:181B28&height=100&section=footer)
