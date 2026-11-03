@@ -13,5 +13,8 @@
   <img src="https://stats.icicle1133.cc/api/top-langs/?username=icicle1133&layout=compact&bg_color=161925&title_color=8500F7&text_color=FFFFFF&hide_border=true" height="165">
 </p>
 
+## Contrubited to:
 
-- this is also viewable @ [icicle1133.cc](https://icicle1133.cc)
+- [ViaVersion](https://github.com/ViaVersion/ViaBackwards)
+- [MCD2-Save-Editor](https://github.com/IshiakiZ/mcd2-save-editor)
+- [Goverlay](https://github.com/benjamimgois/goverlay)
