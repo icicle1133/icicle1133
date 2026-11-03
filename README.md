@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:161925,100:181B28&height=200&section=header&text=hi%20im%20icicle1133&fontSize=40&animation=fadeIn&fontAlignY=40)
-- WakaTime profile  
-  [![wakatime](https://wakatime.com/badge/user/5089f166-a996-455c-8cbe-f75a0e2076db.svg)](https://wakatime.com/@5089f166-a996-455c-8cbe-f75a0e2076db)
 
 ## 💻 what i do (kinda)
 - dev @ [xspect.cc](https://xspect.cc)  
